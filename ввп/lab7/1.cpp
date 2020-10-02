@@ -7,6 +7,6 @@ int main() {
     double a;
     cout << "Введите число А: ";
     cin >> a;
-    const double pi = 3.14
+    const double pi = 3.14;
     cout << "Значение  A = " << a << " в радианах: " << pi * a / 180;
 }
