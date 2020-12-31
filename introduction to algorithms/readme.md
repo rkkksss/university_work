@@ -38,5 +38,5 @@
 | Алгоритм сортировки «быстрая».
 
 
-- [ ] **18. Computational complexity**
+- [x] **18. Computational complexity**
 | Вычислительная сложность алгоритмов.
