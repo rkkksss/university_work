@@ -4,7 +4,7 @@
 int main()
 {
     char a;
-    std::cout << "Ğ’Ğ²ĞµĞ´Ğ¸Ñ‚Ğµ Ğ±ÑƒĞºĞ²Ñƒ: ";
+    std::cout << "Ââåäèòå áóêâó: ";
     std::cin >> a;
     std::cout << islower(a);
     return 0;
